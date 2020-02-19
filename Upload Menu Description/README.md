@@ -2,6 +2,7 @@ The program will automatically read the PSV file and construct the menu based on
 the menu will be built and sorted in order according to the class diagram and be presented to the user in a sorted fashion.
 
 //Class Diagram
+
 Pizza(Parent) - Chicken(Child)
               - Meat(Child)
               - Basics(Child)
