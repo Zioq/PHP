@@ -1,0 +1,65 @@
+
+div.employeeForm input{
+
+    width: 30%;
+}
+
+div.employeeForm label{
+
+    width: 8%;
+}
+div.employeeBody{
+    padding: 3.5%;
+}
+table.availTable th, table.availTable td{
+    width: 118px;
+
+}
+select.se
+{
+    width: 30%;
+}
+
+div.employeeForm input:invalid {
+    border: 2px solid rgb(242, 97, 97);
+  }
+  
+ 
+  
+  div.employeeForm input:valid {
+    border: 2px solid rgb(61, 242, 154);
+  }
+
+nav li{
+    padding-left: 6.5%;
+}
+div.suc{
+    font-size: 19px;
+}
+div.error{
+    color: rgb(242, 97, 97);
+}
+div.calender{
+	color: red;
+    margin-left: 10%;
+    height: 59px;
+    padding: 16px;
+    font-size: 27px;
+    font-weight: bold;
+  } 
+  table.calenderTable,   table.calenderTable th,  table.calenderTable td{
+	border: 1px double black;
+
+  }
+  table.calenderTable th,  table.calenderTable td{
+	height: 41px;
+
+  }
+  table.calenderTable{
+    margin-left: 10%;
+	  width: 73%;
+
+  }
+  td.empty{
+	background-color: rgb(239, 240, 235);
+  }
